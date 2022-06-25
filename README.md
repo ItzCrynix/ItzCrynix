@@ -10,9 +10,8 @@
   <br/>
 </br>
   
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=ItzCrynix">
-</div>
+
+![](https://komarev.com/ghpvc/?username=ItzCrynix)
 
 <!---
 ItzCrynix/ItzCrynix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
