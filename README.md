@@ -11,7 +11,7 @@
 </br>
   
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=ItzCrynix)
+  <a href="https://komarev.com/ghpvc/?username=ItzCrynix">
 </div>
 
 <!---
