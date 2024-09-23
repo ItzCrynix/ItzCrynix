@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItzCrynix
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and GoLang
 
 <div align="center">
   <a href="https://github.com/ItzCrynix">
