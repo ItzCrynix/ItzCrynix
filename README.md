@@ -1,19 +1,18 @@
-- 👋 Hi, I’m @ItzCrynix
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python and GoLang
+<div align="center">
+  <p>👋 Hi, I’m @ItzCrynix</p>
+  <p>👀 I’m interested in learning new things</p>
+  <p>🌱 I’m currently learning C and GoLang</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/ItzCrynix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItzCrynix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzCrynix&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzCrynix&&hide_progress=true&langs_count=6&theme=tokyonight&hide=ASP.NET,ShaderLab,HLSL"/>
   <br/>
 </br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItzCrynix&repo=Benchmark-Search-Methods&theme=tokyonight)](https://github.com/ItzCrynix/Benchmark-Search-Methods)
   
 
 ![](https://komarev.com/ghpvc/?username=ItzCrynix)
-
-<!---
-ItzCrynix/ItzCrynix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
